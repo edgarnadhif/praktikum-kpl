@@ -1,0 +1,10 @@
+C:\Users\edgar\source\repos\TP-pertemuan3\TP-pertemuan3\bin\Debug\TP-pertemuan3.exe.config
+C:\Users\edgar\source\repos\TP-pertemuan3\TP-pertemuan3\bin\Debug\TP-pertemuan3.exe
+C:\Users\edgar\source\repos\TP-pertemuan3\TP-pertemuan3\bin\Debug\TP-pertemuan3.pdb
+C:\Users\edgar\source\repos\TP-pertemuan3\TP-pertemuan3\obj\Debug\TP-pertemuan3.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\TP-pertemuan3\TP-pertemuan3\obj\Debug\TP_pertemuan3.Form1.resources
+C:\Users\edgar\source\repos\TP-pertemuan3\TP-pertemuan3\obj\Debug\TP_pertemuan3.Properties.Resources.resources
+C:\Users\edgar\source\repos\TP-pertemuan3\TP-pertemuan3\obj\Debug\TP-pertemuan3.csproj.GenerateResource.cache
+C:\Users\edgar\source\repos\TP-pertemuan3\TP-pertemuan3\obj\Debug\TP-pertemuan3.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\TP-pertemuan3\TP-pertemuan3\obj\Debug\TP-pertemuan3.exe
+C:\Users\edgar\source\repos\TP-pertemuan3\TP-pertemuan3\obj\Debug\TP-pertemuan3.pdb
