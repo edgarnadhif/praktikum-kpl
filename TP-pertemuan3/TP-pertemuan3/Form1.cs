@@ -19,7 +19,7 @@ namespace TP_pertemuan3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Halo " + textBox1.Text;
+            label1.Text = "HALO " + textBox1.Text;
         }
 
         private void Form1_Load(object sender, EventArgs e)
